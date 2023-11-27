@@ -1,0 +1,13 @@
+{
+  "resourceType": "OperationDefinition",
+  "id": "TestOp1",
+  "url": "http://example.org/OperationDefinition/TestOp1",
+  "description": "A real operation definition 1 (not example)",
+  "name": "TestOp1",
+  "kind": "operation",
+  "system": false,
+  "type": true,
+  "instance": true,
+  "status": "active",
+  "code": "testop"
+}
